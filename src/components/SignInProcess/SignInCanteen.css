@@ -1,0 +1,18 @@
+.b01{
+    background-color: rgb(105, 157, 203);
+    padding: 50px;
+}
+.SignInCanteenLabel{
+    margin: 20px;
+    font-size: large;
+}
+.SignInCanteenButton{
+    background-color: rgb(231, 158, 63);
+    padding: 5px;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+.SignInCanteenButton:hover{
+    font-size: 20px;
+    box-shadow: rgb(0, 0, 0) 0px 10px 20px, rgba(0, 0, 0, 0.998) 6px 5px 5px;
+}

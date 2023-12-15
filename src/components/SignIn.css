@@ -1,0 +1,34 @@
+.heading{
+    
+    padding:50px;
+    font-style: italic;
+    color: #ffffff;
+}
+/* .col-lg-1{
+    border:1px solid black;
+    padding-inline: 10px;
+    margin-inline-end: 25px;
+} */
+.row{
+    margin: 20px;
+
+}
+.detail{
+    border:2px solid black;
+    border-radius: 20px;
+    margin:100px;
+    height:500px;padding-left: 10px;
+    background-color: 
+    #0B2447;
+    color: 
+    #0F2167;
+}
+.signIncomp{
+    border:2px solid black;
+    margin-left: 20px;
+    font-style: oblique;
+    height:250px;
+    padding: 20px;
+    background-color: #DDF2FD;
+    color: #164863;
+}

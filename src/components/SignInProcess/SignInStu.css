@@ -1,0 +1,46 @@
+h1
+{
+    font-size: 35px;
+    font-family: cursive;
+}
+.row
+{
+    text-align: center;
+    border-radius: 20px;
+}
+.SignInStudentLabel
+{
+font-size: 25px;
+margin:10px;
+margin-bottom: 10px;
+padding: auto;
+}
+.SignInStudentLabelDiv 
+{
+    border:2px solid black;
+    box-shadow: 0 160px 810px rgba(0,0,0,0.60), 0 15px 26px rgba(0,0,0,0.14);
+}
+.SignInStudentLabelForm
+{   
+border:1px solid black;
+background-color: hsl(195, 69%, 76%);
+border-radius: 25px;
+margin:30px;
+}
+.SignInStudentLabelButton:hover
+{
+box-shadow: 5px 5px 10px rgb(255,255,255); 
+}
+.SignInStudentLabelButton
+{ 
+    padding:10px;
+    margin-bottom: 20px;
+    margin:10px;
+    border-radius: 30px;
+    font-size: 20px;
+    background-color: white;
+}
+.SignInStudentLabelGen
+{
+    font-size: 20px;
+}

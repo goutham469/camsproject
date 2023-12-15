@@ -1,0 +1,28 @@
+.product-Cart-item{
+    border: 1px solid black;
+    margin: 10px;
+}
+.Cart-Payment-Button{
+    background-color: blueviolet;
+    padding: 5px;
+}
+.CartMakePayment{
+    background-color: rgb(245, 3, 3);
+    border-radius: 10px;
+}
+.box02{
+    border: 2px solid rgb(16, 33, 186);
+    margin: 30px;
+    padding-inline-start: 30px;
+    padding: 30px;
+    border-radius: 20px;
+    background-color: rgb(120, 177, 179);
+}
+.H203{
+    box-shadow: rgb(103, 80, 80) 0px 10px 20px, rgba(239, 239, 239, 0.998) 10px 10px 10px;
+    width: fit-content;
+    text-align: center;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 10px;
+}

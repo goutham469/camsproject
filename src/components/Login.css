@@ -1,0 +1,43 @@
+.LoginPagediv
+{
+border: 2px solid rgb(190, 161, 161);
+margin: 30px;
+padding-left: 30px;
+padding-top: 30px;
+background-color:#19376D;
+padding-bottom: 25px;
+border-radius: 25px;
+color: white;
+}
+.LoginPageUser
+{
+   color: white;
+    font-size: 30px;
+    margin: 5px;
+ border: black;
+
+ 
+}
+.LoginPageUserButton
+{
+    padding:15px;
+    margin: 20px;
+    margin:10px;
+    border-radius: 30px;
+    font-size: 20px;
+    background-color: green;
+}
+.LoginPageUserButton:hover{
+    background-color: white;
+
+}
+h1{
+    font-family: cursive;
+    padding-bottom: 30px;
+
+    
+}
+.typer{
+    color:#000000;
+    
+}
